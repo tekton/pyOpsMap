@@ -1,0 +1,2 @@
+# pyOpsMap
+python operator mapping
